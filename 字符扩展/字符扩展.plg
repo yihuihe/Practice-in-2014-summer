@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ×Ö·ûÀ©Õ¹ - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\JEFF\AppData\Local\Temp\RSP85E4.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/×Ö·ûÀ©Õ¹.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ  /c 
+"D:\2014Êî¼Ù±à³Ì100Ìâ\×Ö·ûÀ©Õ¹\×Ö·ûÀ©Õ¹.cpp"
+]
+Creating command line "cl.exe @C:\Users\JEFF\AppData\Local\Temp\RSP85E4.tmp" 
+Creating temporary file "C:\Users\JEFF\AppData\Local\Temp\RSP85F5.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/×Ö·ûÀ©Õ¹.pdb" /debug /machine:I386 /out:"Debug/×Ö·ûÀ©Õ¹.exe" /pdbtype:sept 
+".\Debug\×Ö·ûÀ©Õ¹.obj"
+]
+Creating command line "link.exe @C:\Users\JEFF\AppData\Local\Temp\RSP85F5.tmp"
+<h3>Output Window</h3>
+Compiling...
+×Ö·ûÀ©Õ¹.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+×Ö·ûÀ©Õ¹.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
